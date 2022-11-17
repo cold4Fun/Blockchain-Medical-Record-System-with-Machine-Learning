@@ -1,4 +1,4 @@
-<h2>A Patients Medical Records System</h2>
+<h2>AI Patients Medical Records System</h2>
 
 <h3>Building the application</h3>
 I recommend to use **Ganache** for testing the smart contract. Once built
